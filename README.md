@@ -1,8 +1,8 @@
 **README.md: Rock and Roll, Baby! **
-O que é esse projeto?
+**O que é esse projeto?**
 É um site simples e divertido para todos os amantes de rock! ✨ Nele, você pode pesquisar por suas bandas favoritas e encontrar informações interessantes sobre elas. Ideal para quem quer descobrir novas bandas ou relembrar os clássicos.
 
-Como funciona?
+**Como funciona?**
 Digite o nome da banda: Na barra de pesquisa, digite o nome da banda que você procura.
 Veja os resultados: A magia do JavaScript faz o resto! Os resultados da pesquisa aparecerão logo abaixo, com informações como descrição e link para saber mais.
 Explore: Clique nos links para mergulhar no universo da sua banda favorita.
